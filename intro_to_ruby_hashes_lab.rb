@@ -3,11 +3,12 @@ new_hash = {}
 end
 
 def actor
-actor = {name: "Dwayne The Rock Johnson"}
+actor = {
+  name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {railroads: {}}
+	monopoly = {railroads: {pieces: 4}, {names: {}}, {rent: {}}}
 
 end
 
