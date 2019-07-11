@@ -32,7 +32,7 @@ def monopoly_with_third_tier
 	    :three_pieces_owned => 75
 	  }
 	}
-		
+	}
 end
 
 def monopoly_with_fourth_tier
