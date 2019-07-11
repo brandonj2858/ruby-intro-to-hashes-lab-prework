@@ -8,7 +8,7 @@ actor = {
 end
 
 def monopoly
-	monopoly = {railroads: {pieces: 4}, {names: {}}, {rent: {}}}
+	monopoly = {railroads: {pieces: 4}, {names: {}}, {rent: {}}
 
 end
 
